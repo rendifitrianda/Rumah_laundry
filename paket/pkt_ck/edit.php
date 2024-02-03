@@ -10,7 +10,8 @@
          <div class="alert">
 				<div class="box">
                <img src="<?=url('_assets/img/berhasil.png')?>" height="68" alt="alert sukses">
-					<p>Paket Berhasil Di Ubah</p>
+					<p>Paket Berhasil Di Ganti</p>
+               <h1>Hello</h1>
 					<button onclick="window.location='http://localhost/rumah_laundry/paket/pkt_ck/pkt_ck.php'" class="btn-alert">Ok</button>
 				</div>
          </div>

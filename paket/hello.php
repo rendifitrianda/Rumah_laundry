@@ -6,6 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello</h1>
+    <h2>Hai</h2>
+    <ul>
+       <li>Perkenalkan nama saya Rendi fitrianda</li>
+       <li>Perkenalkan nama saya reza saputra</li>
+    </ul>
 </body>
 </html>

@@ -6,9 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Hai</h2>
+    <h3>Hai</h3>
     <ul>
-       <li>Perkenalkan nama saya Rendi fitrianda</li>
+       <li>Perkenalkan nama saya Rendiansyah</li>
        <li>Perkenalkan nama saya reza saputra</li>
     </ul>
 </body>

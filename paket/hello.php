@@ -8,7 +8,7 @@
 <body>
     <h3>Hai</h3>
     <ul>
-       <li>Perkenalkan nama saya Rendiansyah</li>
+       <li>Perkenalkan nama saya Ariansyah</li>
        <li>Perkenalkan nama saya reza saputra</li>
     </ul>
 </body>
